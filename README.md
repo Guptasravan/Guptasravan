@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sravan Gupta</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-astronaut-out-laptop-space-cartoon-vector-icon-illustration-science-technology-isolated_138676-6881.jpg&tbnid=mvkX5pz89erlCM&vet=1&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology-cartoon&docid=-eQTpRzQrOZbdM&w=626&h=626&hl=en-IN&source=sh%2Fx%2Fim%2Fm6%2F4"alt="">
+<h3 align="center">A passionate software developer from India</h3><imgsrc="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-astronaut-out-laptop-space-cartoon-vector-icon-illustration-science-technology-isolated_138676-6881.jpg&tbnid=mvkX5pz89erlCM&vet=1&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology-cartoon&docid=-eQTpRzQrOZbdM&w=626&h=626&hl=en-IN&source=sh%2Fx%2Fim%2Fm6%2F4"alt="">
 - 🌱 I’m currently learning **Web development ,java**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sravan-gupta-b213a227a](https://www.linkedin.com/in/sravan-gupta-b213a227a)
